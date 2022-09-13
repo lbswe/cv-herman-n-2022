@@ -1,0 +1,19 @@
+body {
+    background-color:#ade6e7;
+}
+
+h3 {
+    background-color:#6ed3d5;
+    color:#267e80;
+}
+
+.logo  {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.jag {
+    width: 500px;
+    height: 500px;
+}
