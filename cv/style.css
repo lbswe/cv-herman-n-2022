@@ -17,3 +17,15 @@ h3 {
     width: 500px;
     height: 500px;
 }
+
+.block {
+    width: 100px;
+    height: 100px;
+}
+
+.jag2 {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 1000;
+}
